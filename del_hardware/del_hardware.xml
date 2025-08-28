@@ -1,0 +1,10 @@
+<library path="del_hardware">
+    <class name="del_hardware/delhardwareinterface"
+      type="del_hardware::delhardwareinterface"
+      base_class_type="hardware_interface::SystemInterface"
+    >
+      <description>
+        Bumperbot Hardware Interface
+      </description>
+    </class>
+  </library>
