@@ -34,6 +34,15 @@ del_bot is a differential-drive mobile robot developed to assist in hospital log
 - Supports SLAM mapping, obstacle detection, and path planning  
 
 ---
+## ⚡ Quick Setup
+```bash
+# clone and build
+git clone https://github.com/Orcus-nom/REPO.git
+cd REPO
+source /opt/ros/jazzy/setup.bash
+colcon build --symlink-install
+source install/setup.bash
+```
 ## 👨‍💻 Authors
 
 - **Shadab Ahmad Khna** – Developer & Maintaine  
