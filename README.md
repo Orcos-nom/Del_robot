@@ -1,4 +1,4 @@
-# del_bot — Autonomous Hospital Delivery Robot
+# Del_bot — Autonomous Hospital Delivery Robot
 
 **del_bot** is an autonomous delivery robot designed to transport medicines, lab samples, and supplies within hospital environments. Built with **ROS 2 Jazzy**, it uses SLAM and Nav2 for autonomous navigation in mapped hospital layouts, ensuring reliable and contactless delivery.
 
