@@ -34,4 +34,11 @@ del_bot is a differential-drive mobile robot developed to assist in hospital log
 - Supports SLAM mapping, obstacle detection, and path planning  
 
 ---
+## 👨‍💻 Authors
+
+- **Shadab Ahmad Khna** – Developer & Maintaine  
+- Simulation Support  
+- Hardware Integration  
+- Documentation
+- **mail** -shadabahmadkhan272@gmail.com 
 
