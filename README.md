@@ -78,7 +78,9 @@ ros2 launch del_bot_bringup robot.launch.py
 ```
 
 # Start Navigation & SLAM
+```
 ros2 launch del_bot_navigation navigation.launch.py
+```
 👨‍💻 Author
 Shadab Ahmad Khan * Role: Developer & Maintainer
 
