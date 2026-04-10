@@ -10,9 +10,9 @@
 
 ## 📸 Media
 
-| **Hardware Build** | **Gazebo Simulation** |
+| **Hardware Build** | **CAD Design** |
 | :---: | :---: |
-| <img src="assets/robot_preview.png" width="450" alt="Del_bot Hardware"> | <img src="assets/simulation.png" width="450" alt="Del_bot Simulation"> |
+| <img src="assets/images/real_robot.png" width="450" alt="Del_bot Hardware"> | <img src="assets/images/del_bot.png" width="450" alt="Del_bot Simulation"> |
 | *Physical Hardware Implementation* | *Navigating in Hospital Simulation* |
 
 ---
